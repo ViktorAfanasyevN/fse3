@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XA_BUILDING_OTHER_PARTNER_CONCAT>
+  <infoAboutOtherCustomerInTheBuilding>
+    <customerName>COUSTOLS/Gery</customerName>
+    <floor>02000</floor>
+    <quote>cf ab coll</quote>
+    <tv>.</tv>
+    <tvInstallationDate>23-08-2007</tvInstallationDate>
+    <internet>X</internet>
+    <installation>000000000001104911</installation>
+  </infoAboutOtherCustomerInTheBuilding>
+  <infoAboutOtherCustomerInTheBuilding>
+    <customerName>DIAS LIMERIA/VALDEMIR</customerName>
+    <floor>03000</floor>
+    <quote>012621</quote>
+    <tv>.</tv>
+    <tvInstallationDate>29-03-2011</tvInstallationDate>
+    <internet>.</internet>
+    <installation>000000000001305701</installation>
+  </infoAboutOtherCustomerInTheBuilding>
+  <infoAboutOtherCustomerInTheBuilding>
+    <customerName>REA/CELIA</customerName>
+    <floor>000</floor>
+    <tv>.</tv>
+    <quote>cf ab coll</quote>
+    <tvInstallationDate>29-10-2007</tvInstallationDate>
+    <internet>.</internet>
+    <installation>000000000001185965</installation>
+  </infoAboutOtherCustomerInTheBuilding>
+  <infoAboutOtherCustomerInTheBuilding>
+    <customerName>IANISKI DOS SANTOS/Willian</customerName>
+    <floor>01000</floor>
+    <tv>.</tv>
+    <quote>cf ab coll</quote>
+    <tvInstallationDate>31-01-2011</tvInstallationDate>
+    <internet>.</internet>
+    <installation>000000000001687453</installation>
+  </infoAboutOtherCustomerInTheBuilding>
+</XA_BUILDING_OTHER_PARTNER_CONCAT>
